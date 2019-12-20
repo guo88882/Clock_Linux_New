@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "工作-index",
+      "appliesTo": "view/index.html",
+      "type": "launch"
+    },
+    {
+      "taskName": "工作-img",
+      "appliesTo": "img/",
+      "type": "launch"
+    }
+  ]
+}
